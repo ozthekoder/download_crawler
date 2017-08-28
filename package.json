@@ -1,0 +1,26 @@
+{
+  "name": "crawl-load",
+  "version": "0.0.1",
+  "description": "recursive web crawler for file downloading",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest -u --coverage --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ozthekoder/download_crawler.git"
+  },
+  "keywords": [
+    "web",
+    "crawler",
+    "curl",
+    "file",
+    "recursive"
+  ],
+  "author": "Osman Ozdemir",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ozthekoder/download_crawler/issues"
+  },
+  "homepage": "https://github.com/ozthekoder/download_crawler#readme"
+}
