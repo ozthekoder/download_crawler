@@ -10,7 +10,7 @@ const crawler = new Crawler({
                 fileExtensions: ['mhclo', 'obj', 'mhmat', 'thumb']
             },
             {
-                pattern: [/diffuse/g],
+                pattern: [/diffuse/],
                 fileExtensions: ['png', 'jpeg', 'bmp', 'svg']
             }
         ],

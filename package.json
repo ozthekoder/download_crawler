@@ -29,6 +29,7 @@
   "dependencies": {
     "htmlparser": "^1.7.7",
     "node-libcurl": "^1.2.0",
+    "progress": "^2.0.0",
     "soupselect": "^0.2.0",
     "stew-select": "^0.0.5"
   }
